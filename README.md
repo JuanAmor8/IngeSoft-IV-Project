@@ -141,3 +141,11 @@ Si encuentra algún problema:
 ## Créditos
 
 Desarrollado para la Registraduría Nacional como parte del proyecto de votación electrónica. 
+
+
+
+
+##Registraduria Nacional
+#Juan Camilo Amorocho 
+#Juan Esteban Ruiz
+#Tomas Quintero
